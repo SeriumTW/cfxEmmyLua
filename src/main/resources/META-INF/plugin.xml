@@ -111,7 +111,7 @@
     </ul>
     ]]>
     </change-notes>
-    <idea-version since-build="211" until-build="231.*"/>
+    <idea-version since-build="xxx" until-build="251.*"/>
     <xi:include href="emmylua-core.xml" xpointer="xpointer(/idea-plugin/*)"/>
     <depends optional="true" config-file="emmylua-project.xml">com.intellij.java</depends>
 </idea-plugin>
